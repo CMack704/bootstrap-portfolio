@@ -1,0 +1,47 @@
+#jumbotron {
+    background-image: url(./images/beige-tiles/beige-tiles.png);
+    margin: 0px -15px -5px -15px;
+}
+#header {
+    background-color: #ffffff;
+    border: #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+#portfolio {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#teal {
+    margin: -15px;
+    height: 20px;
+    background-color: #4aaaa5;
+}
+h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#footer {
+    background-color: #666666; 
+}
+img {
+    padding: 10px 5px 20px 10px;
+}
+h3 {
+    color: #4aaaa5;
+    padding: 5px;
+}
+}
+.btn-sml {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin: 5px;
+}
+#pic {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 0px 5px 0px 0px;
+}
