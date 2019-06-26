@@ -44,3 +44,47 @@ h3 {
     float: left;
     margin: 0px 5px 0px 0px;
 }
+#hangman {
+    width: 200px;
+    height: 60px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+
+}
+#rpg {
+    width: 200px;
+    height: 60px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+
+}
+#trivia {
+    width: 200px;
+    height: 60px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+
+}
+#rutgers {
+    width: 200px;
+    height: 60px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+
+}
+#rock {
+    width: 200px;
+    height: 60px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+}
